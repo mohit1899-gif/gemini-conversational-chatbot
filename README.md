@@ -1,2 +1,1 @@
-# gemini-conversational-chatbot
-gemini conversational chatbot
+# End-To-End-Gemini-Project
