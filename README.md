@@ -21,15 +21,16 @@ This project is a conversational chatbot built using the **Gemini API** for natu
 
 1. **Clone the Repository**:
    
-   ```
+   
+   https://github.com/mohit1899-gif/gemini-conversational-chatbot.git
 
-2. **Install Dependencies**:  
+3. **Install Dependencies**:  
    Make sure you have Python installed. Install all required packages from `requirements.txt`:
    ```bash
    pip install -r requirements.txt
    ```
 
-3. **Set Up API Key**:  
+4. **Set Up API Key**:  
    The Gemini API key is required for the chatbot to function. By default, the key is read from a `.env` file. If the API key doesn't work, add the key directly in the code instead of using dotenv.
 
    **Example of adding API key manually in the code**:
